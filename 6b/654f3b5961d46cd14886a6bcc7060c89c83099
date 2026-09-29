@@ -1,0 +1,19 @@
+profile/README.md
+  s_a556cb3e1994de::t_e1cd6d3d613ff6 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6b654f3b5961d46cd14886a6bcc7060c89c83099",
+  "prompts": {},
+  "sessions": {
+    "s_a556cb3e1994de": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "151bcf52-656d-455c-9061-6730e4152e2d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Djalma Araújo <djalma@nossomos.cc>"
+    }
+  }
+}
