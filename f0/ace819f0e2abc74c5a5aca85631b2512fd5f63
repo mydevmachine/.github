@@ -1,0 +1,19 @@
+profile/README.md
+  s_080f4178405210::t_771d9999902691 1,3-6,8-30,33-38,44-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f0ace819f0e2abc74c5a5aca85631b2512fd5f63",
+  "prompts": {},
+  "sessions": {
+    "s_080f4178405210": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "53a45adf-41d4-4a52-9180-2df1290e9da9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Djalma Araujo <djalma@nossomos.cc>"
+    }
+  }
+}
